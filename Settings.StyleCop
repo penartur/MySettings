@@ -240,7 +240,7 @@
         </Rule>
       </Rules>
       <AnalyzerSettings>
-        <StringProperty Name="AdvancedNaming_MethodGeneral">$(AaBb):Application_$(AaBb):Page_$(AaBb):Session_$(AaBb):Action_$(AaBb)_Do:Action_$(AaBb)_IsAvailable</StringProperty>
+        <StringProperty Name="AdvancedNaming_MethodGeneral">$(AaBb):Application_$(AaBb):Page_$(AaBb):Session_$(AaBb):Action_$(AaBb)_Do:Action_$(AaBb)_IsAvailable:Action_$(AaBb)_CreateControls:Action_$(AaBb)_UpdateControls</StringProperty>
         <StringProperty Name="SP2001_Mode">Both:False</StringProperty>
         <StringProperty Name="AdvancedNaming_MethodTest">$(AaBb):$(Aa_Bb):$(AaBb)_$(Aa_Bb)</StringProperty>
         <StringProperty Name="AdvancedNaming_Words">3D A B C DS FxCop GL ID IDs OK SP StyleCop TPD VX X</StringProperty>
