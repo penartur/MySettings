@@ -1,6 +1,3 @@
-MKLINK /H "%UserProfile%\.gitconfig" "%Public%\GIT\GitHub\MySettings\.gitconfig"
-MKLINK /H "%UserProfile%\Mercurial.ini" "%Public%\GIT\GitHub\MySettings\Mercurial.ini"
-
-MKLINK /H "C:\Users\Settings.StyleCop" "%Public%\GIT\GitHub\MySettings\Settings.StyleCop"
-MKLINK /H "C:\Users\ReSharper.DotSettings" "%Public%\GIT\GitHub\MySettings\ReSharper.DotSettings"
-MKLINK /H "C:\Users\ReSharper.Shared.DotSettings" "%Public%\GIT\GitHub\MySettings\ReSharper.Shared.DotSettings"
+MKLINK /H "%UserProfile%\.gitconfig" "%UserProfile%\Dropbox\MySettings\.gitconfig"
+MKLINK /H "%UserProfile%\Mercurial.ini" "%UserProfile%\Dropbox\MySettings\Mercurial.ini"
+MKLINK /H "C:\Users\Settings.StyleCop" "%UserProfile%\Dropbox\MySettings\StyleCop\Settings.StyleCop"
